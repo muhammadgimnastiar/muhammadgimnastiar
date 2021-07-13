@@ -1,10 +1,9 @@
-## Hi people 👋
+## Hi people , I'm Muhammad '_Gimnas_' Gimnastiar👋
 
-### My name is Muhammad Gimnastiar as Informatics collage at  University of Muhammadiyah Malang
+### I'm a Informatics collage at  University of Muhammadiyah Malang
 
 - 🔭 I’m currently working on Laboratory Asistance at Informatics Univestity of Muhammadiyah Malang
-- 🌱 I’m currently learning Java and full stack web developer
-- 🤔 I’m looking for help with 
+- 🌱 I’m currently learning Java and full stack web developer and also ui/ux desiner
 - 💬 I'm pretty happy if you want to be my online friend
 - 📫 How to reach me: adagimnas@gmail.com
 - 😄 Pronouns: Indonesia and english
