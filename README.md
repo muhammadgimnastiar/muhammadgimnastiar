@@ -9,4 +9,3 @@
 - 📫 How to reach me: adagimnas@gmail.com
 - 😄 Pronouns: Indonesia and english
 - ⚡ Fun fact: I like jengkol which is a bad smell food
--->
