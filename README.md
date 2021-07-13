@@ -1,6 +1,6 @@
-## Hi people , I'm Muhammad '_Gimnas_' Gimnastiar👋
+### Hi people , I'm Muhammad '_Gimnas_' Gimnastiar👋
 
-### I'm a Informatics collage at  University of Muhammadiyah Malang
+## I'm a Informatics collage  and Laboratory asistance at  University of Muhammadiyah Malang
 
 - 🔭 I’m currently working on Laboratory Asistance at Informatics Univestity of Muhammadiyah Malang
 - 🌱 I’m currently learning Java and full stack web developer and also ui/ux desiner
